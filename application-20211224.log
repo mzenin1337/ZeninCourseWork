@@ -1,0 +1,1 @@
+2021-12-24 09:15:30.754 [main] ERROR org.example.api.DbDataProvider - java.sql.SQLSyntaxErrorException: Unknown database 'misha'

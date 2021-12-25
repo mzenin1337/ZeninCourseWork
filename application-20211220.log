@@ -1,0 +1,10 @@
+2021-12-20 10:26:39.578 [main] ERROR org.example.App - the data provider is written incorrectly
+2021-12-20 10:26:49.734 [main] ERROR org.example.App - you didn't choose the method name
+2021-12-20 10:27:02.885 [main] ERROR org.example.App - insufficient number of parameters
+2021-12-20 10:29:32.072 [main] ERROR org.example.App - insufficient number of parameters
+2021-12-20 10:30:49.774 [main] ERROR org.example.App - insufficient number of parameters
+2021-12-20 10:36:07.695 [main] ERROR org.example.App - java.lang.NumberFormatException: For input string: "name"
+2021-12-20 10:36:25.584 [main] ERROR org.example.App - could not convert boolean
+2021-12-20 10:37:50.626 [main] ERROR org.example.App - the method name is written incorrectly
+2021-12-20 10:39:19.671 [main] INFO  org.example.api.CsvDataProvider - no such currency
+2021-12-20 17:12:47.459 [main] ERROR org.example.App - you have not chosen a data provider

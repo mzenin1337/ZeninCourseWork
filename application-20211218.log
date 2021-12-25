@@ -1,0 +1,32 @@
+2021-12-18 15:30:28.811 [main] ERROR org.example.api.XmlDataProvider - javax.xml.bind.MarshalException
+ - with linked exception:
+[com.sun.istack.SAXException2: unable to marshal type "org.example.model.xmlwrapper.XmlPrice" as an element because it is missing an @XmlRootElement annotation]
+2021-12-18 15:30:28.859 [main] ERROR org.example.api.XmlDataProvider - javax.xml.bind.UnmarshalException
+ - with linked exception:
+[org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.]
+2021-12-18 15:31:23.892 [main] ERROR org.example.api.XmlDataProvider - javax.xml.bind.UnmarshalException
+ - with linked exception:
+[org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.]
+2021-12-18 15:31:23.905 [main] ERROR org.example.api.XmlDataProvider - javax.xml.bind.UnmarshalException
+ - with linked exception:
+[org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.]
+2021-12-18 16:04:43.524 [main] ERROR org.example.api.DbDataProvider - java.lang.ClassNotFoundException: com.mysql.cj.jdbc.Driver
+2021-12-18 16:04:43.533 [main] ERROR org.example.api.DbDataProvider - java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/guitar
+2021-12-18 16:04:43.535 [main] ERROR org.example.api.DbDataProvider - java.lang.ClassNotFoundException: com.mysql.cj.jdbc.Driver
+2021-12-18 16:04:43.535 [main] ERROR org.example.api.DbDataProvider - java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/guitar
+2021-12-18 16:04:43.546 [main] ERROR org.example.api.DbDataProvider - java.lang.ClassNotFoundException: com.mysql.cj.jdbc.Driver
+2021-12-18 16:04:43.547 [main] ERROR org.example.api.DbDataProvider - java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/guitar
+2021-12-18 16:04:43.548 [main] ERROR org.example.api.DbDataProvider - java.lang.ClassNotFoundException: com.mysql.cj.jdbc.Driver
+2021-12-18 16:04:43.548 [main] ERROR org.example.api.DbDataProvider - java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/guitar
+2021-12-18 16:05:25.894 [main] ERROR org.example.api.DbDataProvider - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Out of range value for column 'id' at row 1
+2021-12-18 16:05:26.248 [main] ERROR org.example.api.DbDataProvider - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Out of range value for column 'id' at row 1
+2021-12-18 16:05:26.532 [main] ERROR org.example.api.DbDataProvider - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Out of range value for column 'id' at row 1
+2021-12-18 16:05:26.601 [main] ERROR org.example.api.DbDataProvider - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Out of range value for column 'id' at row 1
+2021-12-18 16:11:55.983 [main] ERROR org.example.api.DbDataProvider - java.sql.SQLException: Column count doesn't match value count at row 1
+2021-12-18 16:11:56.032 [main] ERROR org.example.api.DbDataProvider - java.sql.SQLException: Column count doesn't match value count at row 1
+2021-12-18 16:14:46.246 [main] ERROR org.example.api.DbDataProvider - java.sql.SQLException: Column count doesn't match value count at row 1
+2021-12-18 16:14:46.425 [main] ERROR org.example.api.DbDataProvider - java.sql.SQLException: Column count doesn't match value count at row 1
+2021-12-18 16:16:45.343 [main] ERROR org.example.api.DbDataProvider - java.sql.SQLException: Column count doesn't match value count at row 1
+2021-12-18 16:16:45.474 [main] ERROR org.example.api.DbDataProvider - java.sql.SQLException: Column count doesn't match value count at row 1
+2021-12-18 16:18:57.035 [main] ERROR org.example.api.DbDataProvider - java.sql.SQLException: Column count doesn't match value count at row 1
+2021-12-18 16:18:57.094 [main] ERROR org.example.api.DbDataProvider - java.sql.SQLException: Column count doesn't match value count at row 1

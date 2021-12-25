@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xmlGuitarWithParameters>
+    <guitar>
+        <id>1639830726135</id>
+        <name>name</name>
+        <cases>false</cases>
+        <lowerDeckMaterial>3</lowerDeckMaterial>
+        <manufacturer>1</manufacturer>
+        <numberOfFrets>5</numberOfFrets>
+        <shellMaterial>4</shellMaterial>
+        <upperDeckMaterial>2</upperDeckMaterial>
+    </guitar>
+</xmlGuitarWithParameters>

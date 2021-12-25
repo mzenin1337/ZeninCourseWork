@@ -1,0 +1,6 @@
+2021-12-21 12:07:45.208 [main] ERROR org.example.App - insufficient number of parameters
+2021-12-21 12:08:21.097 [main] ERROR org.example.App - insufficient number of parameters
+2021-12-21 12:14:08.461 [main] ERROR org.example.App - you have not chosen a data provider
+2021-12-21 12:18:53.641 [main] ERROR org.example.App - you have not chosen a data provider
+2021-12-21 12:19:53.994 [main] ERROR org.example.App - you have not chosen a data provider
+2021-12-21 15:26:13.012 [main] ERROR org.example.api.CsvDataProvider - no such currency
