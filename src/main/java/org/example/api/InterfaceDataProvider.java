@@ -17,6 +17,7 @@ import java.util.Date;
 /**
  * Интервейс дата-провайдера
  */
+///////////////////////////
 public interface InterfaceDataProvider {
     /**
      * Метод создания гитары
